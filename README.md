@@ -1,4 +1,4 @@
-👋 Hi, I’m @abdul-050
+👋 Hi, I’m Abdul Rehman Alvi
 I'm a DevOps, Security, and Automation Engineer with a passion for Data Science. I love working on projects that bridge the gap between development and operations, focusing on automation, security, and data-driven solutions to optimize performance and reliability.
 
 👀 I’m interested in:
